@@ -1,3 +1,3 @@
 # Music_Boom
 
-![Project Logo](music.png)
+![](music.png)
